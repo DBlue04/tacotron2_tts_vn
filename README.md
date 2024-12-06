@@ -1,4 +1,4 @@
-#Disclaimers: This is a cloned project that I have been researching and modifying to create TTS models of Vietnamese.
+_Disclaimers: This is a cloned project that I have been researching and modifying to create TTS models of Vietnamese._
 -------------
 # Tacotron 2 (without wavenet)
 
