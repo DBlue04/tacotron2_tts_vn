@@ -1,3 +1,5 @@
+#Disclaimers: This is a cloned project that I have been researching and modifying to create TTS models of Vietnamese.
+-------------
 # Tacotron 2 (without wavenet)
 
 PyTorch implementation of [Natural TTS Synthesis By Conditioning
